@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Rasheed ✨
 
-I am a FP(🌚) first software engineer with a sweet spot for **distributed computing**, **data science** & **machine learning**
+A Software Engineer with specialization in **distributed computing**, **data science & machine learning**, **functional programming** & **systems engineering**
 
 ## Languages
 
