@@ -6,9 +6,7 @@
 - Haskell
 - Java
 - JavaScript
-- Rust
 - Scala
-- Golang
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
