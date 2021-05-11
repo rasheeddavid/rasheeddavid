@@ -6,6 +6,7 @@
 - Haskell
 - Java
 - JavaScript/TypeScript
+- Rust
 - Scala
 
 
